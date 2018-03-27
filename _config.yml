@@ -1,0 +1,14 @@
+# basic options
+title: Getting Started with DDF
+author: GitHub User
+email: wmkellett@gmail.com
+description: 
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-tactile
+
+plugins_dir:
+  - jekyll-sitemap
