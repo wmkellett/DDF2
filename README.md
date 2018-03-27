@@ -1,6 +1,6 @@
 ## DDF
 
 #### [What is CIC?](/assets/WhatIsCIC.md)
-#### Getting started with CIC
-#### Using CIC
-#### Maintaining CIC
+#### Getting started with DDF
+#### Using DDF
+#### Maintaining DDF
