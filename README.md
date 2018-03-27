@@ -1,4 +1,4 @@
-# Getting Started with DDF
+## Getting Started with DDF
 
 ### [What is CIC?](/WhatIsCIC.md)
 ### Getting started with CIC
