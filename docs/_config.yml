@@ -10,5 +10,5 @@ github_username:  jekyll
 markdown: kramdown
 theme: jekyll-theme-tactile
 
-plugins:
+plugins_dir:
   - jekyll-sitemap
