@@ -27,7 +27,7 @@ You can run the script on a local machine or a remote machine.
 
 <div class="familylinks">
 
-<div class="parentlink">Parent topic: [Getting Started with DDF](/assets/DDF_GettingStarted.html)</div>
+<div class="parentlink">Parent topic: [Getting Started with DDF](../assets/DDF_GettingStarted.html)</div>
 
 </div>
 
