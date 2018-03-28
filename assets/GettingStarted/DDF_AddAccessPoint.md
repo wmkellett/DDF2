@@ -13,4 +13,4 @@ You can run the script on a local machine or a remote machine.
 
 After you add an access point, you are ready to add data stores.
 
-Parent topic&emdash;[Getting Started with DDF](../DDF_GettingStarted.html)
+Parent topic&mdash;[Getting Started with DDF](../DDF_GettingStarted.html)
