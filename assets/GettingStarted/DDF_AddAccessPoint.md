@@ -1,14 +1,14 @@
 # Adding an Access Point
 
-<div class="body taskbody">
+<!--<div class="body taskbody">-->
 
 Adding an access point requires you to log into the Cleo Integration Cloud server to get a script that you then run on the machine where you want to add the access point.
 
-<div class="section context">
+<!--<div class="section context">-->
 
 You can run the script on a local machine or a remote machine.
 
-</div>
+<!--</div>-->
 
 1.  <span class="ph cmd">Log in to the server.</span>
 2.  <span class="ph cmd">Go to the <span class="keyword wintitle">Access Points</span> page.</span>
@@ -21,7 +21,7 @@ You can run the script on a local machine or a remote machine.
 
 <div class="section postreq">After you add an <span class="ph uicontrol">Access Point</span>, you are ready to add <span class="ph uicontrol">Data Stores</span>.</div>
 
-</div>
+<!--</div>-->
 
 <div class="related-links">
 
