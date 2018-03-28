@@ -4,5 +4,5 @@ To get started with DDF, you install _agents_ and you create _access points_ and
 
 + [Adding an Access Point](../assets/GettingStarted/DDF_AddAccessPoint.html)&mdash;Adding an Access Point requires you to log into the Cleo Integration Cloud server to get a script that you then run on the machine where you want to add the Access Point.
 + [Adding a Data Store](../Tasks/DDF_AddingDataStores_task.html)&mdash;_Data Stores_ are the file transfer end points for your DDF system. They reside on _Access Points_.
-+ [Creating Data Flows](../Tasks/DDF_CreatingDataFlows_task.html) A _data flow_ connects two _data stores_data stores such that files can be transferred between them.
++ [Creating Data Flows](../Tasks/DDF_CreatingDataFlows_task.html)&mdash;A _data flow_ connects two _data stores_data stores such that files can be transferred between them.
 
